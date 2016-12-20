@@ -1,4 +1,4 @@
-# Long-term_time_series_Census_of_Commerce
+# long-term_time_series_census_of_commerce
 　【和歌山県　長期時系列　商業統計調査です。】
 ◆商業統計調査とは
 　商業統計調査は、我が国の商業の実態を明らかにするため、経済産業省所管のもとに実施されています。調査の対象は、全国の卸売・小売業を営む事業所です。 
